@@ -1,6 +1,6 @@
 # Stickman to SMPL-X
 Turns triangulated 3D keypoints of a person (COCO-17 body + 2 x 21 hand keypoints, "stickman") into SMPL-X data. 
-The results can then be brought into Blender with [smplx-to-blender](https://github.com/BAL-ROCS-BUT-COOL/SMPLX-to-Blender) repository.
+The results can then be brought into Blender with the [blender_smplx_import repository on GitHub](https://github.com/BAL-ROCS/blender_smplx_import) or [GitLab](https://gitlab.uzh.ch/BAL-ROCS/blender_smplx_import).
 
 This repo uses Python 3.11.9.
 

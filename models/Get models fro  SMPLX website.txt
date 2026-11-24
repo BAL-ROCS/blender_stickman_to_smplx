@@ -1,3 +1,4 @@
 Download the smplx models from the project website (https://smpl-x.is.tue.mpg.de/).
 
-Relevant project: https://github.com/alanm-2000/Stickman-to-SMPLX/tree/main
+Relevant project: https://github.com/BAL-ROCS/blender_stickman_to_smplx
+                  https://gitlab.uzh.ch/BAL-ROCS/blender_stickman_to_smplx
